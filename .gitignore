@@ -1,0 +1,11 @@
+.DS_Store
+*/.DS_Store
+node_modules/*
+.hbuilderx/
+unpackage/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
